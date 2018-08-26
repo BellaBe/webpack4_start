@@ -1,0 +1,6 @@
+body{
+    background: pink;
+    background-image: url('./img/img1.jpeg');
+    background-repeat: no-repeat;
+    background-position: cover;
+}
