@@ -1,14 +1,14 @@
 {
-  "name": "webpack4_noconfig",
+  "name": "webpack4_start",
   "version": "1.0.0",
-  "description": "",
+  "description": "webpack start",
   "main": "index.js",
   "scripts": {
     "dev": "webpack-dev-server --mode development --open",
     "build": "webpack --mode production"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": ["webpack"],
+  "author": "BellaBe",
   "license": "ISC",
   "devDependencies": {
     "babel-core": "^6.26.3",
